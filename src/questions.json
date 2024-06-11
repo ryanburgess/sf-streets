@@ -98,6 +98,241 @@
       "question": "Which street has the steepest incline?",
       "options": ["Filbert Street", "22nd Street", "Jones Street", "Vallejo Street"],
       "answer": "Filbert Street"
+    },
+    {
+      "question": "Which street is known for its view of the Painted Ladies and the city skyline?",
+      "options": ["Alamo Square", "Lombard Street", "Mission Street", "Geary Street"],
+      "answer": "Alamo Square"
+    },
+    {
+      "question": "What is the longest street in San Francisco?",
+      "options": ["Mission Street", "Geary Boulevard", "Van Ness Avenue", "Market Street"],
+      "answer": "Geary Boulevard"
+    },
+    {
+      "question": "Which street is known for its historic F-line streetcar service?",
+      "options": ["Market Street", "Mission Street", "Van Ness Avenue", "Geary Street"],
+      "answer": "Market Street"
+    },
+    {
+      "question": "What street is famous for the 'Full House' house?",
+      "options": ["Broderick Street", "Steiner Street", "Lombard Street", "Haight Street"],
+      "answer": "Broderick Street"
+    },
+    {
+      "question": "Which street hosts the annual San Francisco Pride Parade?",
+      "options": ["Market Street", "Castro Street", "Mission Street", "Geary Street"],
+      "answer": "Market Street"
+    },
+    {
+      "question": "Which street runs parallel to the Embarcadero and offers views of the Bay Bridge?",
+      "options": ["Folsom Street", "Mission Street", "Howard Street", "Bryant Street"],
+      "answer": "Folsom Street"
+    },
+    {
+      "question": "What street is known for its jazz clubs in the Fillmore District?",
+      "options": ["Fillmore Street", "Van Ness Avenue", "Divisadero Street", "Geary Boulevard"],
+      "answer": "Fillmore Street"
+    },
+    {
+      "question": "Which street is home to the famous City Lights Bookstore?",
+      "options": ["Columbus Avenue", "Mission Street", "Union Street", "Chestnut Street"],
+      "answer": "Columbus Avenue"
+    },
+    {
+      "question": "What street is famous for the iconic Transamerica Pyramid?",
+      "options": ["Montgomery Street", "California Street", "Kearny Street", "Pine Street"],
+      "answer": "Montgomery Street"
+    },
+    {
+      "question": "Which street is known for its antique shops and art galleries in the Russian Hill neighborhood?",
+      "options": ["Polk Street", "Union Street", "Lombard Street", "Leavenworth Street"],
+      "answer": "Polk Street"
+    },
+    {
+      "question": "Which street has a historic association with the Beat Generation?",
+      "options": ["Grant Avenue", "Haight Street", "Columbus Avenue", "Valencia Street"],
+      "answer": "Columbus Avenue"
+    },
+    {
+      "question": "Which street runs through the Financial District and features many skyscrapers?",
+      "options": ["Montgomery Street", "Market Street", "Kearny Street", "California Street"],
+      "answer": "Montgomery Street"
+    },
+    {
+      "question": "What street is known for its boutiques and high-end shopping in the Pacific Heights area?",
+      "options": ["Fillmore Street", "Union Street", "Chestnut Street", "Divisadero Street"],
+      "answer": "Fillmore Street"
+    },
+    {
+      "question": "Which street is famous for its Victorian houses in the Haight-Ashbury neighborhood?",
+      "options": ["Haight Street", "Ashbury Street", "Steiner Street", "Baker Street"],
+      "answer": "Haight Street"
+    },
+    {
+      "question": "Which street is known for the Exploratorium science museum?",
+      "options": ["Embarcadero", "Howard Street", "Mission Street", "Bryant Street"],
+      "answer": "Embarcadero"
+    },
+    {
+      "question": "Which street runs along the northern waterfront and offers views of Alcatraz Island?",
+      "options": ["Bay Street", "Jefferson Street", "Marina Boulevard", "North Point Street"],
+      "answer": "Jefferson Street"
+    },
+    {
+      "question": "Which street is known for its nightlife and bars in the SoMa neighborhood?",
+      "options": ["Folsom Street", "Howard Street", "Brannan Street", "Harrison Street"],
+      "answer": "Folsom Street"
+    },
+    {
+      "question": "Which street is famous for its restaurants and cafes in the North Beach neighborhood?",
+      "options": ["Columbus Avenue", "Grant Avenue", "Broadway Street", "Union Street"],
+      "answer": "Columbus Avenue"
+    },
+    {
+      "question": "Which street is home to the San Francisco Giants' Oracle Park?",
+      "options": ["King Street", "Berry Street", "Mission Street", "Folsom Street"],
+      "answer": "King Street"
+    },
+    {
+      "question": "Which street is known for its historic cable car line that runs to Fisherman's Wharf?",
+      "options": ["Powell Street", "California Street", "Hyde Street", "Mason Street"],
+      "answer": "Powell Street"
+    },
+    {
+      "question": "Which street is famous for its tech companies in the South of Market area?",
+      "options": ["Howard Street", "Brannan Street", "Mission Street", "Folsom Street"],
+      "answer": "Howard Street"
+    },
+    {
+      "question": "Which street is known for its views of the San Francisco Bay and Golden Gate Bridge?",
+      "options": ["Marina Boulevard", "Lombard Street", "Chestnut Street", "Jefferson Street"],
+      "answer": "Marina Boulevard"
+    },
+    {
+      "question": "Which street is home to the famous Cliff House restaurant?",
+      "options": ["Point Lobos Avenue", "Great Highway", "Sloat Boulevard", "Geary Boulevard"],
+      "answer": "Point Lobos Avenue"
+    },
+    {
+      "question": "Which street is known for its high-end hotels in the Nob Hill neighborhood?",
+      "options": ["California Street", "Powell Street", "Mason Street", "Bush Street"],
+      "answer": "California Street"
+    },
+    {
+      "question": "Which street is famous for its murals in the Mission District?",
+      "options": ["Clarion Alley", "Balmy Alley", "Lilac Alley", "Lucky Street"],
+      "answer": "Balmy Alley"
+    },
+    {
+      "question": "Which street is known for its bookstores and literary culture in the Haight-Ashbury neighborhood?",
+      "options": ["Haight Street", "Ashbury Street", "Cole Street", "Waller Street"],
+      "answer": "Haight Street"
+    },
+    {
+      "question": "Which street is famous for the Salesforce Tower, the tallest building in San Francisco?",
+      "options": ["Mission Street", "Fremont Street", "First Street", "Market Street"],
+      "answer": "Mission Street"
+    },
+    {
+      "question": "Which street is known for its historic mansions in the Pacific Heights neighborhood?",
+      "options": ["Broadway Street", "Vallejo Street", "Jackson Street", "Clay Street"],
+      "answer": "Broadway Street"
+    },
+    {
+      "question": "Which street is famous for its large concentration of theaters in the Theater District?",
+      "options": ["Geary Street", "Sutter Street", "Post Street", "O'Farrell Street"],
+      "answer": "Geary Street"
+    },
+    {
+      "question": "Which street is known for its vibrant street festivals in the Mission District?",
+      "options": ["Valencia Street", "Mission Street", "24th Street", "18th Street"],
+      "answer": "Valencia Street"
+    },
+    {
+      "question": "Which street is home to the historic Ferry Building Marketplace?",
+      "options": ["Embarcadero", "Market Street", "Mission Street", "Spear Street"],
+      "answer": "Embarcadero"
+    },
+    {
+      "question": "Which street is known for the Japanese Tea Garden in Golden Gate Park?",
+      "options": ["Hagiwara Tea Garden Drive", "JFK Drive", "Martin Luther King Jr. Drive", "Stanyan Street"],
+      "answer": "Hagiwara Tea Garden Drive"
+    },
+    {
+      "question": "Which street is known for its luxury shops and boutiques in Union Square?",
+      "options": ["Post Street", "Geary Street", "Stockton Street", "Powell Street"],
+      "answer": "Post Street"
+    },
+    {
+      "question": "Which street is famous for its gourmet food trucks in the SoMa neighborhood?",
+      "options": ["2nd Street", "Howard Street", "Harrison Street", "Minna Street"],
+      "answer": "Howard Street"
+    },
+    {
+      "question": "Which street is known for its historic jazz clubs in the Fillmore District?",
+      "options": ["Fillmore Street", "Steiner Street", "Scott Street", "Divisadero Street"],
+      "answer": "Fillmore Street"
+    },
+    {
+      "question": "Which street is famous for its public art installations in the Financial District?",
+      "options": ["California Street", "Montgomery Street", "Market Street", "Kearny Street"],
+      "answer": "California Street"
+    },
+    {
+      "question": "Which street is known for its luxury hotels and historic mansions in Nob Hill?",
+      "options": ["California Street", "Jones Street", "Leavenworth Street", "Hyde Street"],
+      "answer": "California Street"
+    },
+    {
+      "question": "Which street is famous for its nightlife and bars in the Castro District?",
+      "options": ["Castro Street", "Market Street", "18th Street", "Noe Street"],
+      "answer": "Castro Street"
+    },
+    {
+      "question": "Which street is known for the famous Coit Tower?",
+      "options": ["Telegraph Hill Boulevard", "Kearny Street", "Lombard Street", "Greenwich Street"],
+      "answer": "Telegraph Hill Boulevard"
+    },
+    {
+      "question": "Which street is known for the Ferry Building Marketplace?",
+      "options": ["Embarcadero", "Market Street", "Mission Street", "Spear Street"],
+      "answer": "Embarcadero"
+    },
+    {
+      "question": "Which street is known for its tech startups and companies in the SoMa neighborhood?",
+      "options": ["Howard Street", "Folsom Street", "Harrison Street", "Bryant Street"],
+      "answer": "Howard Street"
+    },
+    {
+      "question": "Which street is known for its Victorian architecture in the Haight-Ashbury neighborhood?",
+      "options": ["Haight Street", "Ashbury Street", "Page Street", "Cole Street"],
+      "answer": "Haight Street"
+    },
+    {
+      "question": "Which street is known for its scenic views of the Bay Bridge?",
+      "options": ["Embarcadero", "Bay Street", "North Point Street", "Beach Street"],
+      "answer": "Embarcadero"
+    },
+    {
+      "question": "Which street is known for its many historic theaters in the Theater District?",
+      "options": ["Geary Street", "Sutter Street", "Post Street", "O'Farrell Street"],
+      "answer": "Geary Street"
+    },
+    {
+      "question": "Which street is known for the iconic Painted Ladies?",
+      "options": ["Steiner Street", "Haight Street", "Broderick Street", "Lombard Street"],
+      "answer": "Steiner Street"
+    },
+    {
+      "question": "Which street is famous for its high-end boutiques in Union Square?",
+      "options": ["Post Street", "Geary Street", "Stockton Street", "Powell Street"],
+      "answer": "Post Street"
+    },
+    {
+      "question": "Which street is known for its historic mansions in Pacific Heights?",
+      "options": ["Broadway Street", "Vallejo Street", "Jackson Street", "Clay Street"],
+      "answer": "Broadway Street"
     }
   ]
   
