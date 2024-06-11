@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Where does Judah Street start?",
+      "options": ["Ocean Beach", "Mission Bay", "Golden Gate Park", "Presidio"],
+      "answer": "Ocean Beach"
+    },
+    {
+      "question": "What is the most crooked street in San Francisco?",
+      "options": ["Lombard Street", "Haight Street", "Mission Street", "Market Street"],
+      "answer": "Lombard Street"
+    },
+    {
+      "question": "What street is the most steep?",
+      "options": ["Filbert Street", "California Street", "Broadway Street", "Divisadero Street"],
+      "answer": "Filbert Street"
+    },
+    {
+      "question": "Which street is known for its Painted Ladies?",
+      "options": ["Steiner Street", "Lombard Street", "Haight Street", "Market Street"],
+      "answer": "Steiner Street"
+    },
+    {
+      "question": "Which street runs through Chinatown?",
+      "options": ["Grant Avenue", "Van Ness Avenue", "Folsom Street", "Divisadero Street"],
+      "answer": "Grant Avenue"
+    },
+    {
+      "question": "Where is the Ferry Building located?",
+      "options": ["Market Street", "Embarcadero", "Geary Boulevard", "Union Street"],
+      "answer": "Embarcadero"
+    },
+    {
+      "question": "Which street is famous for its murals in the Mission District?",
+      "options": ["Balmy Alley", "Castro Street", "Geary Street", "Fulton Street"],
+      "answer": "Balmy Alley"
+    },
+    {
+      "question": "What street is known for high-end shopping in San Francisco?",
+      "options": ["Union Square", "Haight Street", "Van Ness Avenue", "Fillmore Street"],
+      "answer": "Union Square"
+    },
+    {
+      "question": "Which street is home to the famous Castro Theater?",
+      "options": ["Castro Street", "Mission Street", "Market Street", "Valencia Street"],
+      "answer": "Castro Street"
+    },
+    {
+      "question": "Where is the headquarters of Twitter located?",
+      "options": ["Market Street", "Van Ness Avenue", "Folsom Street", "Mission Street"],
+      "answer": "Market Street"
+    },
+    {
+      "question": "Which street is famous for the Golden Gate Park entrance?",
+      "options": ["Fulton Street", "Lincoln Way", "Judah Street", "Geary Boulevard"],
+      "answer": "Lincoln Way"
+    },
+    {
+      "question": "What is the most photographed street in San Francisco?",
+      "options": ["Lombard Street", "Market Street", "Steiner Street", "Mission Street"],
+      "answer": "Lombard Street"
+    },
+    {
+      "question": "Which street is famous for its cable cars?",
+      "options": ["Powell Street", "Van Ness Avenue", "Divisadero Street", "Mission Street"],
+      "answer": "Powell Street"
+    },
+    {
+      "question": "What street is famous for the San Francisco Museum of Modern Art (SFMOMA)?",
+      "options": ["Third Street", "Mission Street", "Geary Boulevard", "Howard Street"],
+      "answer": "Third Street"
+    },
+    {
+      "question": "Which street is well-known for being a popular filming location?",
+      "options": ["Alamo Square", "Haight Street", "Castro Street", "Mission Street"],
+      "answer": "Alamo Square"
+    },
+    {
+      "question": "Which street is known for its vibrant LGBTQ+ culture and history?",
+      "options": ["Castro Street", "Mission Street", "Geary Street", "Van Ness Avenue"],
+      "answer": "Castro Street"
+    },
+    {
+      "question": "Which is the longest street in San Francisco?",
+      "options": ["Geary Boulevard", "Mission Street", "Van Ness Avenue", "Market Street"],
+      "answer": "Geary Boulevard"
+    },
+    {
+      "question": "How many street lights are there on Market Street?",
+      "options": ["200", "300", "400", "500"],
+      "answer": "400"
+    },
+    {
+      "question": "Which street is known to have the most street lights in San Francisco?",
+      "options": ["Market Street", "Mission Street", "Van Ness Avenue", "Geary Boulevard"],
+      "answer": "Market Street"
+    },
+    {
+      "question": "Which street has the steepest incline?",
+      "options": ["Filbert Street", "22nd Street", "Jones Street", "Vallejo Street"],
+      "answer": "Filbert Street"
+    }
+  ]
+  
