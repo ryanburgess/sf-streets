@@ -1,6 +1,21 @@
 import React, { useState, useEffect } from 'react';
 
+const shuffleArray = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
+
 const Question = ({ question, options, answer, onAnswer, onNextQuestion }) => {
+  const [shuffledOptions, setShuffledOptions] = useState([]);
+
+  useEffect(() => {
+    const allOptions = [...options, answer];
+    setShuffledOptions(shuffleArray(allOptions));
+  }, [question, options, answer]);
+
   const [selectedOption, setSelectedOption] = useState(null);
   const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
 
@@ -26,7 +41,7 @@ const Question = ({ question, options, answer, onAnswer, onNextQuestion }) => {
   return (
     <div className="question-container">
       <h2>{question}</h2>
-      {options.map((option, index) => (
+      {shuffledOptions.map((option, index) => (
         <button
           key={index}
           className={`option-button ${getOptionClass(option)}`}

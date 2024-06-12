@@ -101,8 +101,8 @@
     },
     {
       "question": "Which street is known for its view of the Painted Ladies and the city skyline?",
-      "options": ["Alamo Square", "Lombard Street", "Mission Street", "Geary Street"],
-      "answer": "Alamo Square"
+      "options": ["Steiner Street", "Lombard Street", "Mission Street", "Geary Street"],
+      "answer": "Steiner Street"
     },
     {
       "question": "What is the longest street in San Francisco?",
@@ -333,6 +333,11 @@
       "question": "Which street is known for its historic mansions in Pacific Heights?",
       "options": ["Broadway Street", "Vallejo Street", "Jackson Street", "Clay Street"],
       "answer": "Broadway Street"
+    },
+    {
+      "question": "What street is Coit Tower located on?",
+      "options": ["Broadway Street", "Telegraph Hill Boulevard", "Coit Street", "Clay Street"],
+      "answer": "Telegraph Hill Boulevard"
     }
   ]
   
