@@ -12,7 +12,8 @@ const Question = ({ question, options, answer, onAnswer, onNextQuestion }) => {
   const [shuffledOptions, setShuffledOptions] = useState([]);
 
   useEffect(() => {
-    const allOptions = [...options, answer];
+    // Combine the options with the answer, ensuring no duplicates
+    const allOptions = options.includes(answer) ? [...options] : [...options, answer];
     setShuffledOptions(shuffleArray(allOptions));
   }, [question, options, answer]);
 
