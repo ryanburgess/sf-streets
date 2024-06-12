@@ -26,8 +26,8 @@ const App = () => {
     setQuestions(shuffledQuestions);
   }, []);
 
-  const handleAnswer = (answer) => {
-    if (answer === questions[currentQuestion]?.answer) {
+  const handleAnswer = (selectedOption) => {
+    if (selectedOption === questions[currentQuestion]?.answer) {
       setScore(score + 1);
     }
   };
@@ -38,7 +38,7 @@ const App = () => {
       setCurrentQuestion(nextQuestion);
     } else {
       setShowScore(true);
-      if (score + 1 === questions.length) {
+      if (score === questions.length) {
         setShowConfetti(true);
       }
     }
@@ -68,7 +68,7 @@ const App = () => {
             options={questions[currentQuestion].options}
             answer={questions[currentQuestion].answer}
             onNextQuestion={handleNextQuestion}
-            onAnswer={() => handleAnswer(questions[currentQuestion].answer)}
+            onAnswer={handleAnswer}
           />
         )
       )}

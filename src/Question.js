@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const Question = ({ question, options, answer, onNextQuestion }) => {
+const Question = ({ question, options, answer, onAnswer, onNextQuestion }) => {
   const [selectedOption, setSelectedOption] = useState(null);
   const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
 
@@ -13,6 +13,7 @@ const Question = ({ question, options, answer, onNextQuestion }) => {
   const handleOptionClick = (option) => {
     setSelectedOption(option);
     setShowCorrectAnswer(true);
+    onAnswer(option); // Call onAnswer with the selected option
   };
 
   const getOptionClass = (option) => {
