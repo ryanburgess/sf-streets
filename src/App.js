@@ -22,15 +22,17 @@ const App = () => {
   const [showConfetti, setShowConfetti] = useState(false);
 
   useEffect(() => {
-    // Shuffle questions and set to state
-    const shuffledQuestions = shuffleArray([...questionsData]);
+    const shuffledQuestions = shuffleArray([...questionsData]).slice(0, 10);
     setQuestions(shuffledQuestions);
   }, []);
 
   const handleAnswer = (answer) => {
-    if (answer === questions[currentQuestion].answer) {
+    if (answer === questions[currentQuestion]?.answer) {
       setScore(score + 1);
     }
+  };
+
+  const handleNextQuestion = () => {
     const nextQuestion = currentQuestion + 1;
     if (nextQuestion < questions.length) {
       setCurrentQuestion(nextQuestion);
@@ -43,7 +45,7 @@ const App = () => {
   };
 
   const handleStartOver = () => {
-    const shuffledQuestions = shuffleArray([...questionsData]);
+    const shuffledQuestions = shuffleArray([...questionsData]).slice(0, 10);
     setQuestions(shuffledQuestions);
     setCurrentQuestion(0);
     setScore(0);
@@ -60,11 +62,13 @@ const App = () => {
       {showScore ? (
         <Score score={score} total={questions.length} onStartOver={handleStartOver} />
       ) : (
-        questions.length > 0 && (
+        questions.length > 0 && questions[currentQuestion] && (
           <Question
             question={questions[currentQuestion].question}
             options={questions[currentQuestion].options}
-            onAnswer={handleAnswer}
+            answer={questions[currentQuestion].answer}
+            onNextQuestion={handleNextQuestion}
+            onAnswer={() => handleAnswer(questions[currentQuestion].answer)}
           />
         )
       )}

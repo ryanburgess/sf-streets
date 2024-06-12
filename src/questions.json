@@ -6,8 +6,8 @@
     },
     {
       "question": "What is the most crooked street in San Francisco?",
-      "options": ["Lombard Street", "Haight Street", "Mission Street", "Market Street"],
-      "answer": "Lombard Street"
+      "options": ["Lombard Street", "Vermount", "Mission Street", "Market Street"],
+      "answer": "Vermount"
     },
     {
       "question": "What street is the most steep?",

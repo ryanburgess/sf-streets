@@ -30,7 +30,7 @@ The San Francisco Streets Quiz is a fun and educational game where players can t
 
 ## Screenshots
 
-![Screenshot 1](path-to-screenshot-1.png)
+![Screenshot 1](screenshot-1.png)
 
 ## Installation
 
